@@ -1,0 +1,40 @@
+{
+  "addressBook": [
+    {
+      "fullName": "Sreepad Emidi",
+      "address": "HanumanNagar,Adoni",
+      "city": "Bangalore",
+      "state": "Karnataka",
+      "phoneNumber": "9988776655",
+      "zipCode": "518302",
+      "id": 1
+    },
+    {
+      "fullName": "Sreejesh Emidi",
+      "address": "Adoni",
+      "city": "Kurnool",
+      "state": "Karnataka",
+      "phoneNumber": "91 9988776655",
+      "zipCode": "518301",
+      "id": 6
+    },
+    {
+      "fullName": "Sreenath",
+      "address": "Adoni",
+      "city": "Kurnool",
+      "state": "Andhra Pradesh",
+      "phoneNumber": "9876543210",
+      "zipCode": "518301 ",
+      "id": 7
+    },
+    {
+      "fullName": "Sreenath",
+      "address": "Adoni",
+      "city": "Mumbai",
+      "state": "Karnataka",
+      "phoneNumber": "919474536",
+      "zipCode": "518301",
+      "id": 8
+    }
+  ]
+}
